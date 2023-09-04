@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/omarcodez/blog_api.git"
+    "url": "git+https://github.com:omarCodez/schoolinka_backend_engineer_blog_api.git"
   },
   "keywords": [
     "Blog",
@@ -18,9 +18,9 @@
   "author": "Ridwan Adefemi Odubona",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/omarcodez/blog_api/issues"
+    "url": "https://github.com/omarcodez/bschoolinka_backend_engineer_blog_api/issues"
   },
-  "homepage": "https://github.com/omarcodez/blog_api#readme",
+  "homepage": "https://github.com/omarcodez/schoolinka_backend_engineer_blog_api#readme",
   "devDependencies": {
     "@tsconfig/node18": "^18.2.1",
     "@types/cookie-parser": "^1.4.3",
